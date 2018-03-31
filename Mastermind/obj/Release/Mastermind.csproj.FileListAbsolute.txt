@@ -1,0 +1,6 @@
+D:\Year 3\Semester 1\AI\Assignment\Mastermind\Mastermind\bin\Release\Mastermind.exe.config
+D:\Year 3\Semester 1\AI\Assignment\Mastermind\Mastermind\bin\Release\Mastermind.exe
+D:\Year 3\Semester 1\AI\Assignment\Mastermind\Mastermind\bin\Release\Mastermind.pdb
+D:\Year 3\Semester 1\AI\Assignment\Mastermind\Mastermind\obj\Release\Mastermind.csproj.CoreCompileInputs.cache
+D:\Year 3\Semester 1\AI\Assignment\Mastermind\Mastermind\obj\Release\Mastermind.exe
+D:\Year 3\Semester 1\AI\Assignment\Mastermind\Mastermind\obj\Release\Mastermind.pdb
